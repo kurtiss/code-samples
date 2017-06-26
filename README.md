@@ -1,2 +1,2 @@
 # code-samples
-Some code samples for your amusement.
+Here are some code samples for your amusement.
